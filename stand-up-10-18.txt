@@ -1,0 +1,48 @@
+Yasin Adam
+What did they do yesterday?
+	- Reviewed SQL
+	- Talked about Database
+What will they do today?
+	- Get a handle of React
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Set up databases look at templates for react
+Are they running into any challenges/issues?
+	- No challenges so far
+
+
+David Kazaryan
+What did they do yesterday?
+	- Design Ideas for Project Website
+What will they do today?
+	- Contiue focus on Project
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Set up databases look at templates for react
+Are they running into any challenges/issues?
+	-No challenges
+
+
+Josiah Schmidt
+What did they do yesterday?
+	- Practiced some java coding from HW
+What will they do today?
+	- Review React
+	- Review Java and JS
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Set up databases look at templates for react
+Are they running into any challenges/issues?
+	- No Challenges
+
+
+Robel Fessehai
+What did they do yesterday?
+	- Went over mirro board
+	- went over demo
+	- jumpstart on project database
+What will they do today?
+	- review todays notes 
+	- go over coding challenges
+	- go over todays lecture
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Set up databases look at templates for react
+Are they running into any challenges/issues?
+	- No challenges
