@@ -1,0 +1,49 @@
+Yasin Adam
+
+What did they do yesterday?
+	- looked over project 1
+What will they do today?
+	- start working on database plans
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Start working on database
+Are they running into any challenges/issues?
+	- No challenges so far
+
+
+David Kazaryan
+What did they do yesterday?
+	-  Reviewed project 1 and Java
+What will they do today?
+	- Will work on portfolio
+	- Practice Java
+	- Work on project 2
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Work on project 2
+Are they running into any challenges/issues?
+	-No challenges
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- Looked at pokemon api demo
+What will they do today?
+	- Work on portfolio
+	- How to set up server for project 2
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- How to set up server for project 2
+Are they running into any challenges/issues?
+	- No Challenges
+
+
+Robel Fessehai
+
+What did they do yesterday?
+	- Prepared for todays evaluation, reviewed project 1
+What will they do today?
+	-Get started on portfolio
+	-Get started on project 2
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Reviewing to start project 2
+Are they running into any challenges/issues?
+	- No challenges
