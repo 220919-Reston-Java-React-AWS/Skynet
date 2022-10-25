@@ -1,0 +1,52 @@
+Yasin Adam
+
+What did they do yesterday?
+	- worked on atabase
+	- worked on profile page
+What will they do today?
+	- continue working on profile page
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Database
+Are they running into any challenges/issues?
+	- No challenges
+
+
+David Kazaryan
+What did they do yesterday?
+	- finished hope page
+	- merged the branches
+What will they do today?
+	- look at backend
+	- continue working on frontend
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- frontend pages
+Are they running into any challenges/issues?
+	- No challenges
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- made model classes
+	- made server side login and registration
+What will they do today?
+	- continue setting up backend
+	- finish portfolio
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- backend  classes
+Are they running into any challenges/issues?
+	- No Challenges
+
+
+Robel Fessehai
+
+What did they do yesterday?
+	- Went over mirro board
+	- went over demo
+What will they do today?
+	- review todays notes 
+	- go over coding challenges
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- N/A
+Are they running into any challenges/issues?
+	- No challenges
