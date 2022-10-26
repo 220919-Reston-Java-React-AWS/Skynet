@@ -1,0 +1,33 @@
+Yasin Adam
+
+What did they do yesterday?
+	- Made profile and accounts page for front end
+What will they do today?
+	- Finish portfolio
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Made 2 componenets for website
+Are they running into any challenges/issues?
+	- No challenges so far
+
+
+David Kazaryan
+What did they do yesterday?
+	-  Connecting front end to back end for project 2
+What will they do today?
+	- Review Spring today
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	-  Usiing axios and completing home page component
+Are they running into any challenges/issues?
+	- Understanding Spring
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- Finished model classes, connected to databse, login and register
+What will they do today?
+	- Starting on transactions
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Connected to database and added login and register feature
+Are they running into any challenges/issues?
+	- No Challenges so far possibly trnasactions
