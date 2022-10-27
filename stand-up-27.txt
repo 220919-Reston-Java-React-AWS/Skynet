@@ -1,0 +1,36 @@
+Yasin Adam
+
+What did they do yesterday?
+	- worked on how to display data from backend 
+What will they do today?
+	- read up on redux and axios documentation
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- profile page
+Are they running into any challenges/issues?
+	- axios and redux challenges
+
+
+David Kazaryan
+What did they do yesterday?
+	- finished help page, and connected it to the backend
+What will they do today?
+	- look into redux and spring
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	-  finished help page completely, and worked on login
+Are they running into any challenges/issues?
+	- redux challenges
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- worked on get and post requests for accounts in backend
+What will they do today?
+	- work on trnsactions
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- backend completion for account making, and worked on viewing that account info
+Are they running into any challenges/issues?
+	- none so far
+
+
+
