@@ -1,0 +1,34 @@
+Yasin Adam
+
+What did they do yesterday?
+	- Worked on layout for transfer page
+What will they do today?
+	- finish touching up on transfer page, profile page, accounts page
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- finish up pages and stying
+Are they running into any challenges/issues?
+	- no challenges
+
+
+David Kazaryan
+What did they do yesterday?
+	-  studied up on spring boot
+What will they do today?
+	- style up pages
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- work on pages
+Are they running into any challenges/issues?
+	- no challenges
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- worked on spring boot
+What will they do today?
+	- complete spring boot (hopefully)
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- backend work
+Are they running into any challenges/issues?
+	- no challenges
+
