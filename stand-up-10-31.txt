@@ -1,0 +1,33 @@
+Yasin Adam
+
+What did they do yesterday?
+	- Worked on making transactions page and account page complete
+	- Studied for QC
+What will they do today?
+	- Finish transfer page and make profile/acount page niceer
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Using CSS to make UI look nicer
+Are they running into any challenges/issues?
+	- Utilizing CSS
+
+
+David Kazaryan
+What did they do yesterday?
+	-  Studied for QC
+What will they do today?
+	- Worked on project 2
+Are they running into any challenges/issues?
+	- Not enought time to prepare
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- Looked at spring framework and spring boot
+	- started putting spring boot
+What will they do today?
+	- Continue with spring boot implementation
+What progress are they making on project-2 and are they updating the Trello cards with their status?
+	- Spring boot implementation for project 2
+Are they running into any challenges/issues?
+	- How to put fields instead of objects as parameters for spring boot

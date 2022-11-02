@@ -1,0 +1,27 @@
+Yasin Adam
+
+What did they do yesterday?
+	- Worked on update profile page
+What will they do today?
+	- Study and look into spring data and work on stretch goals
+Are they running into any challenges/issues?
+	- None so far
+
+
+David Kazaryan
+What did they do yesterday?
+	-  Added night mode, fixed bugs
+What will they do today?
+	- See if they can add messages functionality to project
+Are they running into any challenges/issues?
+	-Getting JWT to work
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- Looked at spring boot
+	- Started implementing spring boot and related features
+What will they do today?
+	- Continuing working on spring boot
+Are they running into any challenges/issues?
+	- Pablo helped with challenges, none so far except transactions and procedures
