@@ -1,0 +1,29 @@
+Yasin Adam
+What did they do yesterday?
+	- Reviewed a little bit from week 7
+	- Practiced a bit of spring boot
+What will they do today?
+	- Study for QC
+Are they running into any challenges/issues?
+	- Getting up to speed on everything from week 7
+
+
+David Kazaryan
+What did they do yesterday?
+	-  Rewatched spring videos
+	- Watched Spring AOP videos
+What will they do today?
+	- Review past miro boards
+	- Hackerrank problems
+Are they running into any challenges/issues?
+	- Sleeping
+
+Josiah Schmidt
+What did they do yesterday?
+	- Downloaded Docker properly and practiced Docker
+	-Reviewed week 7 miro board
+What will they do today?
+	- Study all miro boards for QC
+	- Focus on front end
+Are they running into any challenges/issues?
+	- No challenges
