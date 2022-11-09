@@ -1,0 +1,28 @@
+Yasin Adam
+What did they do yesterday?
+	- Reviewed java and sql for coding quiz
+What will they do today?
+	- Jenkins
+Are they running into any challenges/issues?
+	- No challenges
+
+
+David Kazaryan
+What did they do yesterday?
+	- Watched videos on jenkins
+	- Did hackerrank
+	- Tried making a new jenkins project
+What will they do today?
+	- Figure out jenkins as a team
+Are they running into any challenges/issues?
+	- No challenges
+
+Josiah Schmidt
+What did they do yesterday?
+	- Finished docker video 
+	- Reviewed coding challenges
+What will they do today?
+	- Work on pipeline
+	- Work on docker
+Are they running into any challenges/issues?
+	- No challenges
